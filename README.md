@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Intimiwar - In.To.Me.You.See
 
-# Run and deploy your AI Studio app
+**אינטימיות בצל הטראומה: קלפים לחיזוק ולהעמקת האינטימיות**
 
-This contains everything you need to run your app locally.
+[span_0](start_span)פרויקט זה הוא גרסה דיגיטלית של ערכת הקלפים המקוצרת "In.To.Me.You.See"[span_0](end_span). [span_1](start_span)[span_2](start_span)המשחק נוצר כדי לאפשר שיח אינטימי בתקופה של שבר, חיבור והתחלה מחודשת, במיוחד בתקופות סוערות כמו מלחמה[span_1](end_span)[span_2](end_span).
 
-View your app in AI Studio: https://ai.studio/apps/48e18fab-547c-43be-9e83-5e589a9e1ba0
+## 🌸 על הפרויקט
+[span_3](start_span)המשחק לא נולד רק "כדי לשחק", אלא כדי לעצור רגע ולתת מקום למה שבלב ולמה שלא נאמר בקול[span_3](end_span). [span_4](start_span)הוא מזמין שיחה כנה ופשוטה עם עצמנו או עם הקרובים לנו, ללא צורך "לפתור" או "לסדר" דבר, אלא רק לשהות יחד עם התחושות[span_4](end_span).
 
-## Run Locally
+## 👥 למי זה מתאים?
+- **[span_5](start_span)זוגות:** שמבקשים להתקרב מחדש לאחר תקופה של דריכות ומתח[span_5](end_span).
+- **[span_6](start_span)חברים:** שחוו מציאות דומה ורוצים להעמיק את השיח ביניהם[span_6](end_span).
+- **[span_7](start_span)יחידים:** שרוצים לחזור לדבר עם עצמם בשקט ובכנות[span_7](end_span).
 
-**Prerequisites:**  Node.js
+## 🎮 איך משחקים? (המלצות לשימוש)
 
+### בזוג:
+- [span_8](start_span)צרו מרחב נינוח, שקט וללא הסחות דעת[span_8](end_span).
+- [span_9](start_span)כל משתתף שולף קלף בתורו ועונה על השאלה עבור עצמו[span_9](end_span).
+- **[span_10](start_span)הקשבה:** יש להקשיב עד הסוף מבלי לקטוע, לתקן או להציע פתרונות[span_10](end_span).
+- **[span_11](start_span)אופציה נוספת:** ניתן לשלוף קלף ולבקש מהפרטנר לענות עליו מנקודת המבט שלו עליכם (מה הוא חושב שאתם הייתם עונים)[span_11](end_span).
+- **חשוב לזכור:** המטרה אינה להספיק כמה שיותר קלפים. [span_12](start_span)מותר ואף מומלץ לעצור גם אחרי קלף אחד אם הוא עורר שיח עמוק[span_12](end_span).
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### לבד:
+- [span_13](start_span)שלפו קלף אקראי פעם ביום (בוקר או ערב)[span_13](end_span).
+- [span_14](start_span)תנו לשאלה לחיות בכם לאורך היום[span_14](end_span).
+- [span_15](start_span)[span_16](start_span)ניתן לענות לעצמכם בקול או לכתוב על כך במחברת אישית[span_15](end_span)[span_16](end_span).
+
+## 🛠 טכנולוגיות
+- React
+- TypeScript
+- Vite / GitHub Actions (לפריסה)
+
+---
+*מבוסס על ערכת הקלפים של ורד סבאג וערן שטרן.*
